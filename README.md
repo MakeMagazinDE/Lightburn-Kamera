@@ -4,14 +4,14 @@ Maker Media GmbH
 
 ***
 
-# Projektname
+# Kamera für Lightburn
 
-## Erklärende Unterzeile (optional)
+## Mit einer Kamera über der Arbeitsfläche des Lasercutters positionieren Sie das Schnittmaterial auf Bruchteile eines Millimeters genau
 
-**Vorspann aus dem Heft**
+**Ob man nun eine Sperrholzplatte bis zum letzten Millimeter ausnutzen, ein bereits bearbeitetes Teil um Gravuren und/oder zusätzliche Schnitte ergänzen oder winzige Teile mit dem Laser beschriften möchte, es kommt auf Präzision an. Hier hilft eine Kamera über dem Schneidetisch, deren Bild in der Lasercut-Software Lightburn eingeblendet werden kann. Damit schieben Sie dann Schnittlinen und Gravuren millimetergenau aufs Material. die Schnitt- und 3D-Druckdateien für den Kamerahalter.dddddd**
 
 ![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
 
-Hier gibt es !!! ein Template für die README.md in Github. Das Aufmacherbild sowie weitere Doku soll in den Ordner _doc_. Bitte für andere Dateien sinnvolle Ordner anlegen, etwa _src_ oder _cad_.
+Hier gibt es die Schnitt-/3D-Druckdateien für den Kamerahalter.
 
-Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe x/yy ab Seite z](https://www.heise.de/select/make/xxx)**.
+Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 1/24 ab Seite 54](https://www.heise.de/select/make/2024/1/2326909565517009394)**.
